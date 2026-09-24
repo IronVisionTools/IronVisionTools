@@ -1,6 +1,7 @@
 ## IronVision Tools
 
 Practical software and AI tools for small businesses. Independent and self-funded, based in Edirne, Türkiye.
+Everything is built and shipped by one person, Demir, working with terminal AI coding agents.
 
 **Website:** [ironvisiontools.com](https://ironvisiontools.com)
 
